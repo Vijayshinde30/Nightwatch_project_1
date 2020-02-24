@@ -1,0 +1,343 @@
+09:46:39.698 INFO - Selenium build info: version: '3.9.0', revision: '698b3178f0'
+09:46:39.698 INFO - Launching a standalone Selenium Server on port 4444
+2020-02-24 09:46:39.948:INFO::main: Logging initialized @1040ms to org.seleniumhq.jetty9.util.log.StdErrLog
+2020-02-24 09:46:40.258:INFO:osjs.Server:main: jetty-9.4.7.v20170914, build timestamp: 2017-11-22T02:57:37+05:30, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2020-02-24 09:46:40.378:WARN:osjs.SecurityHandler:main: ServletContext@o.s.j.s.ServletContextHandler@3b0143d3{/,null,STARTING} has uncovered http methods for path: /
+2020-02-24 09:46:40.388:INFO:osjsh.ContextHandler:main: Started o.s.j.s.ServletContextHandler@3b0143d3{/,null,AVAILABLE}
+2020-02-24 09:46:40.979:INFO:osjs.AbstractConnector:main: Started ServerConnector@6acdbdf5{HTTP/1.1,[http/1.1]}{0.0.0.0:4444}
+2020-02-24 09:46:40.989:INFO:osjs.Server:main: Started @2082ms
+09:46:40.989 INFO - Selenium Server is up and running on port 4444
+2020-02-24 09:46:42.404:INFO:osjshC.ROOT:qtp1123225098-14: org.openqa.selenium.remote.server.WebDriverServlet-4501b7af: Initialising WebDriverServlet
+09:46:42.534 INFO - Found handler: org.openqa.selenium.remote.server.commandhandler.BeginSession@4899370a
+09:46:42.544 INFO - /session: Executing POST on /session (handler: BeginSession)
+09:46:42.784 INFO - Capabilities are: Capabilities {acceptSslCerts: true, browserName: chrome, chromeOptions: {w3c: false}, javascriptEnabled: true, name: Telus Website}
+09:46:42.784 INFO - Capabilities {acceptSslCerts: true, browserName: chrome, chromeOptions: {w3c: false}, javascriptEnabled: true, name: Telus Website} matched class org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 33143
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+09:46:48.517 INFO - Detected dialect: OSS
+09:46:53.717 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:46:53.717 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/url (handler: ServicedSession)
+09:46:53.727 INFO - To upstream: {"url":"https://www.telus.com/en/"}
+[1582517816.328][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517816.429][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517816.616][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517816.717][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517816.860][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.177][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.279][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.380][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.482][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.584][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.685][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.792][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.894][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517817.996][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.097][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.198][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.300][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.401][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.505][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.607][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.709][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.811][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517818.912][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.013][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.114][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.216][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.463][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.565][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.666][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.767][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.868][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517819.971][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517820.072][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517820.553][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517824.817][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517824.997][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517825.319][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517825.449][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517825.575][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517825.745][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517825.874][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517825.976][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517826.078][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517826.249][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517826.370][SEVERE]: Timed out receiving message from renderer: 0.100
+09:47:06.832 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":null}
+09:47:06.860 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:06.862 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/title (handler: ServicedSession)
+09:47:06.882 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":"Phones, Internet and TV on Canada's fastest network | TELUS"}
+09:47:06.911 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:06.912 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:06.917 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:06.954 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:07.471 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:07.471 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:07.488 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:07.524 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:08.040 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:08.041 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:08.050 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+[1582517828.979][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517829.081][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517829.183][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517829.286][SEVERE]: Timed out receiving message from renderer: 0.100
+09:47:09.414 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:09.928 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:09.928 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:09.932 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:09.961 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:10.474 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:10.475 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:10.478 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:10.502 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:11.012 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:11.012 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:11.016 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:11.049 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:11.557 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:11.557 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:11.561 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:11.585 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:12.094 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:12.094 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:12.097 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:12.123 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:12.630 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:12.631 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:12.634 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:12.654 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:13.162 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:13.162 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:13.169 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:13.189 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:13.700 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:13.700 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:13.704 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:13.727 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:14.234 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:14.235 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:14.238 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:14.258 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:14.765 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:14.766 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:14.769 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:14.792 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:15.302 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:15.303 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:15.307 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:15.332 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.8304115518906394-1"}]}
+09:47:15.341 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:15.341 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.8304115518906394-1/displayed (handler: ServicedSession)
+09:47:15.377 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":true}
+09:47:15.391 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:15.392 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:15.395 INFO - To upstream: {"using":"css selector","value":"a[data-di-id=di-id-23a1f14-f417c9e8]"}
+09:47:15.414 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.8304115518906394-1"}]}
+09:47:15.422 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:15.422 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.8304115518906394-1/click (handler: ServicedSession)
+09:47:15.425 INFO - To upstream: {}
+[1582517839.568][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517839.773][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517839.877][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517839.979][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517840.081][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517840.593][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517840.695][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517840.800][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517840.901][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.004][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.108][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.211][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.313][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.415][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.517][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.620][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.724][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.826][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517841.928][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517842.047][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517842.149][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517842.251][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517842.353][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517842.455][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517842.561][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.057][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.207][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.309][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.411][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.513][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.617][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.719][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.823][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517843.925][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.027][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.129][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.231][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.333][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.436][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.542][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.644][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.746][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.849][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517844.951][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.053][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.156][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.258][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.361][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.463][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.565][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.667][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.771][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517845.983][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.112][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.214][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.317][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.419][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.522][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.625][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.727][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.829][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517846.931][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517847.033][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517847.135][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517847.237][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517847.340][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517847.442][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517847.545][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517847.647][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517848.438][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517849.703][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517850.579][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517851.167][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517851.271][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517851.374][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517851.476][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517851.632][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517851.848][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517852.310][SEVERE]: Timed out receiving message from renderer: 0.100
+09:47:32.421 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":null}
+09:47:32.429 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:32.431 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:32.444 INFO - To upstream: {"using":"css selector","value":"input[name=IDToken1]"}
+09:47:32.478 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-1"}]}
+09:47:32.489 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:32.490 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-1/displayed (handler: ServicedSession)
+09:47:32.529 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":true}
+09:47:32.541 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:32.549 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:32.553 INFO - To upstream: {"using":"css selector","value":"input[name=IDToken1]"}
+09:47:32.629 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-1"}]}
+09:47:32.642 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:32.643 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-1/displayed (handler: ServicedSession)
+09:47:32.669 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":true}
+09:47:32.680 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:32.681 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:32.684 INFO - To upstream: {"using":"css selector","value":"input[name=IDToken1]"}
+09:47:32.708 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-1"}]}
+09:47:32.715 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:32.715 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-1/value (handler: ServicedSession)
+09:47:32.718 INFO - To upstream: {"value":["v","i","j","a","y"]}
+09:47:33.102 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":null}
+09:47:33.111 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:33.111 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:33.114 INFO - To upstream: {"using":"css selector","value":"input[name=IDToken2]"}
+09:47:33.153 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-3"}]}
+09:47:33.160 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:33.161 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-3/displayed (handler: ServicedSession)
+09:47:33.201 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":true}
+09:47:33.211 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:33.212 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:33.215 INFO - To upstream: {"using":"css selector","value":"input[name=IDToken2]"}
+09:47:33.239 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-3"}]}
+09:47:33.251 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:33.251 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-3/value (handler: ServicedSession)
+09:47:33.254 INFO - To upstream: {"value":["S","h","i","n","d","e"]}
+09:47:34.881 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":null}
+09:47:34.888 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:34.889 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:34.893 INFO - To upstream: {"using":"css selector","value":"button[data-di-id=di-id-e746dae1-e59e3839]"}
+09:47:34.978 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[]}
+09:47:35.495 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:35.495 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:35.501 INFO - To upstream: {"using":"css selector","value":"button[data-di-id=di-id-e746dae1-e59e3839]"}
+09:47:35.543 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-4"}]}
+09:47:35.550 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:35.551 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-4/displayed (handler: ServicedSession)
+09:47:35.591 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":true}
+09:47:35.601 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:35.602 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:35.606 INFO - To upstream: {"using":"css selector","value":"button[data-di-id=di-id-e746dae1-e59e3839]"}
+09:47:35.631 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-4"}]}
+09:47:35.637 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:35.638 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-4/displayed (handler: ServicedSession)
+09:47:35.667 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":true}
+09:47:35.678 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:35.678 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:35.682 INFO - To upstream: {"using":"css selector","value":"button[data-di-id=di-id-e746dae1-e59e3839]"}
+09:47:35.705 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.7638690214081045-4"}]}
+09:47:35.710 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:35.711 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.7638690214081045-4/click (handler: ServicedSession)
+09:47:35.715 INFO - To upstream: {}
+09:47:36.339 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":null}
+09:47:36.443 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:36.443 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing POST on /session/6034a5c631d2cfe8dccbd4df70fc8746/elements (handler: ServicedSession)
+09:47:36.448 INFO - To upstream: {"using":"css selector","value":"div[data-testid=auth-failed]"}
+[1582517857.393][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517859.134][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517859.435][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517859.537][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517859.639][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517859.742][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517859.844][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517859.946][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517860.048][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517860.150][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517860.256][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517860.358][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517860.460][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517860.562][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.120][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.252][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.354][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.456][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.558][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.660][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.762][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.865][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517861.967][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.069][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.171][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.273][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.375][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.477][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.579][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.681][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.783][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.886][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517862.988][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.090][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.192][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.294][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.396][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.498][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.600][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.703][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.805][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517863.907][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517864.032][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517864.134][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517864.236][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517864.400][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517864.652][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517864.841][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582517864.943][SEVERE]: Timed out receiving message from renderer: 0.100
+09:47:45.196 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":[{"ELEMENT":"0.08427929227304443-1"}]}
+09:47:45.207 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:45.207 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing GET on /session/6034a5c631d2cfe8dccbd4df70fc8746/element/0.08427929227304443-1/text (handler: ServicedSession)
+09:47:45.417 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":"Sorry, the username and password you entered does not match our records. Please try again. Warning: Five (5) unsuccessful attempts will cause your online access to be locked for one hour. If you cannot remember your My TELUS log in, go to forgot username or password."}
+09:47:45.433 INFO - Found handler: org.openqa.selenium.remote.server.ServicedSession@7e3e26fa
+09:47:45.433 INFO - Handler thread for session 6034a5c631d2cfe8dccbd4df70fc8746 (chrome): Executing DELETE on /session/6034a5c631d2cfe8dccbd4df70fc8746 (handler: ServicedSession)
+09:47:45.521 INFO - To downstream: {"sessionId":"6034a5c631d2cfe8dccbd4df70fc8746","status":0,"value":null}
+09:47:45.521 INFO - Removing session org.openqa.selenium.remote.server.ServicedSession@7e3e26fa

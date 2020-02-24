@@ -1,0 +1,1 @@
+require('C:/Nightwatch_project/lib/nightwatch/bin/runner.js');
